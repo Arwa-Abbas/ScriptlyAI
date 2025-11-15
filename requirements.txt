@@ -1,0 +1,11 @@
+pandas
+numpy
+pymongo
+nltk
+spacy
+sentence-transformers
+transformers
+flask
+fastapi
+uvicorn
+streamlit
